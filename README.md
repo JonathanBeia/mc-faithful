@@ -18,6 +18,7 @@
 [Minecraft 1.7](https://github.com/JonathanBeia/mc-faithful/releases/tag/MC-1.7)  
 [Minecraft 1.8](https://github.com/JonathanBeia/mc-faithful/releases/tag/MC-1.8)
 
+![](https://img.shields.io/github/downloads/jonathanbeia/mc-faithful/total.svg)
 
 ### Pacote de recurso criado por [JonathanBeia](https://github.com/JonathanBeia)
 
@@ -39,3 +40,5 @@
 
 [Minecraft 1.7](https://github.com/JonathanBeia/mc-faithful/releases/tag/MC-1.7)  
 [Minecraft 1.8](https://github.com/JonathanBeia/mc-faithful/releases/tag/MC-1.8)
+
+![](https://img.shields.io/github/downloads/jonathanbeia/mc-faithful/total.svg)
